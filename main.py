@@ -1,3 +1,5 @@
+#Letizia Rosa Laghi
+
 import os
 from dotenv import load_dotenv
 from sqlmodel import Field, Session, create_engine, select, Relationship, SQLModel
